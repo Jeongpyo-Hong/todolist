@@ -1,0 +1,15 @@
+.nav {
+  background: #3C2317;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;  
+}
+
+.nav > div {
+  font-weight: bold;
+}
+
+.icon {
+  font-size: 20px
+}

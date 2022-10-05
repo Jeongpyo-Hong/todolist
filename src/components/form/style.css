@@ -1,0 +1,33 @@
+.add-form, .input-group {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+}
+
+.add-form {
+  background-color: #F5EFE6;
+  color: black;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.input-group > input {
+  border-radius: 10px;
+  border-style: hidden;
+  width: 250px;
+  height: 30px;
+}
+
+.add-form button {
+  background-color: #5d4037;
+  color: white;
+  border-radius: 10px;
+  border-style: hidden;
+  width: 100px;
+  height: 30px;
+}
+.add-form button:hover {
+  background-color: #29434e;
+  cursor: pointer;
+}

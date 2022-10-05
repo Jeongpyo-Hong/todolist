@@ -1,0 +1,33 @@
+.todo-container {
+  background:  white;
+  box-shadow: 0px 0px 20px rgb(214, 214, 214);
+  border-radius: 12px;
+  padding: 12px 24px 24px;
+  margin: 20px 40px;
+  width: 270px;
+}
+
+.todo-title {
+  margin: 20px 0px;
+  font-size: 24px;
+}
+
+div {
+  display: block;
+}
+
+.todo-container > button {
+  margin: 20px 15px 0px 0px;
+  background: #F5EFE6;
+  color: black;
+  border-radius: 10px;
+  border-style: hidden;
+  width: 120px;
+  height: 30px;
+}
+
+.todo-container > button:hover {
+  background-color: #29434e;
+  color: white;
+  cursor: pointer;
+}

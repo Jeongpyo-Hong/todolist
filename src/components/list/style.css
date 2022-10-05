@@ -1,0 +1,10 @@
+.list-container h1 {
+  color: #3C2317;
+  font-size: 32px;
+  padding: 30px 25px 10px;
+}
+
+.list-wraper {
+  display: flex;
+  flex-flow: row wrap;
+}
